@@ -12,4 +12,5 @@ No performance impact
 Perfect for timing play sessions or avoiding “just one more game” syndrome
 
 Stay connected to reality while you go bananas in VR!
+
 ![Screenshot 2025-05-25 140834](https://github.com/user-attachments/assets/8a63bc53-d807-4dd0-b957-d7382b4ca775)
