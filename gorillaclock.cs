@@ -4,7 +4,7 @@ using UnityEngine.UI;
 using TMPro;
 using System;
 
-[BepInPlugin("com.yourname.gorillaclock", "gorillaclock", "1.2.2")]
+[BepInPlugin("com.seb.gorillaclock", "gorillaclock", "1.2.2")]
 public class GorillaClock : BaseUnityPlugin
 {
     private GameObject canvasObject;
