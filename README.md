@@ -5,6 +5,12 @@ GtagClock is a lightweight mod for Gorilla Tag that displays your real-world tim
 
 Features:
 
+Easy toggling of visibility (K key)
+
+Easy moving between corners (M key)
+
+A neat UI box for readability
+
 Real-time clock overlay visible in-game
 
 No performance impact
