@@ -13,4 +13,5 @@ Perfect for timing play sessions or avoiding “just one more game” syndrome
 
 Stay connected to reality while you go bananas in VR!
 
-![Screenshot 2025-05-25 140834](https://github.com/user-attachments/assets/8a63bc53-d807-4dd0-b957-d7382b4ca775)
+![Screenshot 2025-05-25 233725](https://github.com/user-attachments/assets/a194bd8b-2823-4f26-90d7-429b181cfd0b)
+
